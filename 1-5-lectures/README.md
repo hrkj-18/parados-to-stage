@@ -22,7 +22,7 @@ Each person says a word or a sentence to make a story
 
 ### Homework
 1. Learn tongue twister shlok in Sanskrit
-    ![](img/shlok.jpeg)    
+        ![](img/shlok.jpeg)    
 2. Monolgue of 15 lines
 3. Lip sync on a song
 4. Sing a song
